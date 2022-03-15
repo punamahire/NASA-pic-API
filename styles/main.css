@@ -1,0 +1,20 @@
+.image-and-info {
+    display: flex;
+}
+
+.astronomy-image {
+    flex: 3;
+    margin-right: 20px;
+}
+
+.pic-info {
+    flex: 2;
+}
+
+body {
+    background-color: bisque;
+}
+
+.image-desp {
+    line-height: 1.5em;
+}
